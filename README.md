@@ -7,6 +7,7 @@ Puzzles solved: 14
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+  8   17:41:57   7669      0   18:04:24   7191      0
   7       >24h  10046      0       >24h   7597      0
   6       >24h  12291      0       >24h  11687      0
   5   21:23:09  15026      0   22:23:36  14413      0
@@ -73,7 +74,9 @@ Scala used to be my day job, and a friend was learning/trying Scala for his own 
 figured out how easy it would be to use Scala's massive standard library of collections to 
 calculate the list of available steps, so I finished the whole thing in Scala.
 
-### [Day 8](https://adventofcode.com/2018/day/8)
+### [Day 8](https://adventofcode.com/2018/day/8) - Haskell
+I haven't written Haskell since college.  This was another brain stretcher for me!
+
 ### [Day 9](https://adventofcode.com/2018/day/9)
 ### [Day 10](https://adventofcode.com/2018/day/10)
 ### [Day 11](https://adventofcode.com/2018/day/11)
