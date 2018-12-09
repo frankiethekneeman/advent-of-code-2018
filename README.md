@@ -2,12 +2,13 @@
 
 I'm doing it.
 
-Languages so far: 9
-Puzzles solved: 16
-
 ```
+Languages so far: 10
+Puzzles solved: 18
+
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+  9   17:43:11   7443      0   17:57:59   6378      0
   8   17:41:57   7669      0   18:04:24   7191      0
   7       >24h  10046      0       >24h   7597      0
   6       >24h  12291      0       >24h  11687      0
@@ -79,7 +80,19 @@ calculate the list of available steps, so I finished the whole thing in Scala.
 ### [Day 8](https://adventofcode.com/2018/day/8) - Haskell
 I haven't written Haskell since college.  This was another brain stretcher for me!
 
-### [Day 9](https://adventofcode.com/2018/day/9)
+### [Day 9](https://adventofcode.com/2018/day/9) - Rust
+I used Rust because a non-trivial number of my coworkers were using it.  Wanted to see how
+I liked it, and felt like Sunday was a good day to spend on learning a new language.
+
+For the record - I hated rust.  I found its intense memory management way too restrictive for what
+I was trying to do.  Granted, I was probably trying to work at too low a level for the language,
+but I still hated it.
+
+It _was_ pretty cool, though, changing my internal structure for the second part of the puzzles
+(the insertion/deletion time was too much for the Vec structure).  As someone said about it at
+work: "If my code compiles, it's correct".  I think you get a lot of the same guarantees from any
+statically typed language, but it was nice to see it in action.
+
 ### [Day 10](https://adventofcode.com/2018/day/10)
 ### [Day 11](https://adventofcode.com/2018/day/11)
 ### [Day 12](https://adventofcode.com/2018/day/12)
