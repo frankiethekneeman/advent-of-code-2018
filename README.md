@@ -2,9 +2,10 @@
 
 I'm doing it.
 
-Languages so far: 8
-Puzzles solved: 14
+Languages so far: 9
+Puzzles solved: 16
 
+```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
   8   17:41:57   7669      0   18:04:24   7191      0
@@ -15,6 +16,7 @@ Day       Time   Rank  Score       Time   Rank  Score
   3       >24h  18623      0       >24h  17418      0
   2   00:56:54   2919      0   01:22:41   2672      0
   1   22:27:36  24586      0   22:58:21  20019      0
+```
 
 ## My Philosophy
 
