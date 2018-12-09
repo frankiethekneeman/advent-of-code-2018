@@ -30,7 +30,7 @@ I chose here and "why".  Though the reasons may be specious, at best.
 As much as possible, I'm trying to avoid package management.  My goal is to get my hands super dirty,
 so I'll gladly reroll things not available in the standard library.
 
-### [Day 1](https://adventofcode.com/2018/day/1) - JS & Python
+### [Day 1](https://adventofcode.com/2018/day/1) - [JS & Python](days/1/)
 #### Puzzle 1
 I did this one in JS, just to use `eval`.  I chuckled to myself as I did it, and I'm not
 apologizing.
