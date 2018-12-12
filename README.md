@@ -112,3 +112,14 @@ PHP!  Running out of languages.
 ### [Day 23](https://adventofcode.com/2018/day/23) - [TBD](days/23/puzzles/)
 ### [Day 24](https://adventofcode.com/2018/day/24) - [TBD](days/24/puzzles/)
 ### [Day 25](https://adventofcode.com/2018/day/25) - [TBD](days/25/puzzles/)
+
+## Languages that are on my list, but I haven't used yet
+- Elixir
+- Crystal
+- Perl
+- Lisp
+- Clojure
+- Lua
+- Ruby
+- Erlang
+- Scheme?
