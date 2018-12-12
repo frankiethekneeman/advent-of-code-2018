@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 10
-Puzzles solved: 18
+Languages so far: 11
+Puzzles solved: 20
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 10       >24h   9413      0       >24h   9381      0
   9   17:43:11   7443      0   17:57:59   6378      0
   8   17:41:57   7669      0   18:04:24   7191      0
   7       >24h  10046      0       >24h   7597      0
@@ -93,7 +94,9 @@ It _was_ pretty cool, though, changing my internal structure for the second part
 work: "If my code compiles, it's correct".  I think you get a lot of the same guarantees from any
 statically typed language, but it was nice to see it in action.
 
-### [Day 10](https://adventofcode.com/2018/day/10) - [TBD](days/10/puzzles/)
+### [Day 10](https://adventofcode.com/2018/day/10) - [PHP](days/10/puzzles/)
+PHP!  Running out of languages.
+
 ### [Day 11](https://adventofcode.com/2018/day/11) - [TBD](days/11/puzzles/)
 ### [Day 12](https://adventofcode.com/2018/day/12) - [TBD](days/12/puzzles/)
 ### [Day 13](https://adventofcode.com/2018/day/13) - [TBD](days/13/puzzles/)
