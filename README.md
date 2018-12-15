@@ -8,6 +8,7 @@ Puzzles solved: 20
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 11       >24h   9381      0       >24h   9553      0
  10       >24h   9413      0       >24h   9381      0
   9   17:43:11   7443      0   17:57:59   6378      0
   8   17:41:57   7669      0   18:04:24   7191      0
@@ -31,12 +32,12 @@ I chose here and "why".  Though the reasons may be specious, at best.
 As much as possible, I'm trying to avoid package management.  My goal is to get my hands super dirty,
 so I'll gladly reroll things not available in the standard library.
 
-### [Day 1](https://adventofcode.com/2018/day/1) - [JS & Python](days/1/puzzles/)
-#### Puzzle 1
+### [Day 1](https://adventofcode.com/2018/day/1) - JS & Python
+#### Puzzle 1 - [JS](days/1/puzzles/1)
 I did this one in JS, just to use `eval`.  I chuckled to myself as I did it, and I'm not
 apologizing.
 
-#### Puzzle 2
+#### Puzzle 2 - [Python](days/1/puzzles/2)
 I did this in Python, because none of my JS code was reusable and I wanted a change of pace.  Also,
 I've always enjoyed Python's list comprehensions.
 
@@ -97,7 +98,16 @@ statically typed language, but it was nice to see it in action.
 ### [Day 10](https://adventofcode.com/2018/day/10) - [PHP](days/10/puzzles/)
 PHP!  Running out of languages.
 
-### [Day 11](https://adventofcode.com/2018/day/11) - [TBD](days/11/puzzles/)
+### [Day 11](https://adventofcode.com/2018/day/11) - 
+#### Puzzle 1 [Bash](days/11/puzzles/1)
+I realized that the purely functional nature of this made it really easy to implement in Bash.
+It's not fast though.  Not even a little.
+
+#### Puzzle 2 [Clojure](days/11/puzzles/2)
+Argh.  Part 2 was so much larger, I had to throw away all my bash.  This is not suprising
+to me.  Anyway, I wanted to stick with the pure functionalism, and I'd never used clojure
+before.  Even then, it was so slow I had to use an executor pool - still took 45 minutes.
+
 ### [Day 12](https://adventofcode.com/2018/day/12) - [TBD](days/12/puzzles/)
 ### [Day 13](https://adventofcode.com/2018/day/13) - [TBD](days/13/puzzles/)
 ### [Day 14](https://adventofcode.com/2018/day/14) - [TBD](days/14/puzzles/)
