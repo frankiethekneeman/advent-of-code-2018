@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 13
-Puzzles solved: 22
+Languages so far: 14
+Puzzles solved: 24
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 12       >24h   8642      0       >24h   7704      0
  11       >24h   9381      0       >24h   9553      0
  10       >24h   9413      0       >24h   9381      0
   9   17:43:11   7443      0   17:57:59   6378      0
@@ -108,7 +109,11 @@ Argh.  Part 2 was so much larger, I had to throw away all my bash.  This is not 
 to me.  Anyway, I wanted to stick with the pure functionalism, and I'd never used clojure
 before.  Even then, it was so slow I had to use an executor pool - still took 45 minutes.
 
-### [Day 12](https://adventofcode.com/2018/day/12) - [TBD](days/12/puzzles/)
+### [Day 12](https://adventofcode.com/2018/day/12) - [Crystal](days/12/puzzles/)
+Saw the OO solution right away - so I wanted to pick a new OO language to learn. Turns out,
+there was a pretty good functional solution right underneath my OO one - so this turned
+out to be a bit of a Hybrid.
+
 ### [Day 13](https://adventofcode.com/2018/day/13) - [TBD](days/13/puzzles/)
 ### [Day 14](https://adventofcode.com/2018/day/14) - [TBD](days/14/puzzles/)
 ### [Day 15](https://adventofcode.com/2018/day/15) - [TBD](days/15/puzzles/)
@@ -125,7 +130,6 @@ before.  Even then, it was so slow I had to use an executor pool - still took 45
 
 ## Languages that are on my list, but I haven't used yet
 - Elixir
-- Crystal
 - Perl
 - Lisp
 - Lua
