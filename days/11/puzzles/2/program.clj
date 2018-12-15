@@ -47,7 +47,7 @@
 
 (import '(java.util.concurrent Executors Callable))
 (defn findBest [fieldSize boxLimit field]
-    (let [pool (Executors/newFixedThreadPool 8)
+    (let [pool (Executors/newFixedThreadPool 12)
         vs (range 1 (+ 1 fieldSize))
         tasks (for [x vs y vs :let [maxL (min boxLimit (- fieldSize -1 (max x y)))]]
             (cast Callable (fn [] (getBestCandidate x y maxL field))))

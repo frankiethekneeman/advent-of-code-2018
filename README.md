@@ -3,8 +3,8 @@
 I'm doing it.
 
 ```
-Languages so far: 11
-Puzzles solved: 20
+Languages so far: 13
+Puzzles solved: 22
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
@@ -98,7 +98,7 @@ statically typed language, but it was nice to see it in action.
 ### [Day 10](https://adventofcode.com/2018/day/10) - [PHP](days/10/puzzles/)
 PHP!  Running out of languages.
 
-### [Day 11](https://adventofcode.com/2018/day/11) - 
+### [Day 11](https://adventofcode.com/2018/day/11) - Bash and Clojure
 #### Puzzle 1 [Bash](days/11/puzzles/1)
 I realized that the purely functional nature of this made it really easy to implement in Bash.
 It's not fast though.  Not even a little.
@@ -128,7 +128,6 @@ before.  Even then, it was so slow I had to use an executor pool - still took 45
 - Crystal
 - Perl
 - Lisp
-- Clojure
 - Lua
 - Ruby
 - Erlang
