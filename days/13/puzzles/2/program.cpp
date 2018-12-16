@@ -1,8 +1,8 @@
-#include <functional>
+//#include <functional>
 #include <iostream>
 #include <list>
 #include <queue>
-#include <unordered_map>
+#include <map>
 #include <unordered_set>
 #include <utility>
 using namespace std;
@@ -70,18 +70,16 @@ class Context {
         return to_string(x) + "," + to_string(y);
     }
 
+    int sortablePos() {
+        return x * 10000 + y;
+    }
+
 
     bool operator==(const Context &rhs) const {
         return x == rhs.x
             && y == rhs.y
             && facing == rhs.facing
             && nextTime == rhs.nextTime;
-    }
-};
-
-template<> struct hash<Context>{
-    size_t operator()(const Context& c) const {
-        return ((c.x * 1000 + c.y ) * 1000 + c.facing ) * 1000 + c.nextTime;
     }
 };
 
@@ -220,78 +218,33 @@ string locationString(pair<int, int> p) {
     return to_string(p.first) + "," + to_string(p.second);
 }
 
-string showMe(list<Cart> carts, TrackType** track, int width, int height) {
-    unordered_map<string, char> seen;
-    int t;
-    for (t = 0; carts.size() != 1; t++) {
-        unordered_set<string> toRemove;
-        for (auto cart = carts.begin(); cart != carts.end(); cart++) {
-            Context c = cart->at(t);
-            string loc = c.location();
-            if (seen.count(loc)) {
-                seen[loc] = 'X';
-                toRemove.insert(loc);
-            } else {
-                seen[loc] = (char) c.facing;
-            }
+map<int, Cart*> tick(map<int, Cart*> startingPositions, int nextT) {
+    map<int, Cart*> nextPositions;
+    for (auto p = startingPositions.begin(); p != startingPositions.end(); p++) {
+        int start = p->first;
+        int end = p->second->at(nextT).sortablePos(); 
+        if (nextPositions.count(start)) {
+            //Someone Ran into me!
+            nextPositions.erase(start);
+        } else if (nextPositions.count(end)) {
+            //I ran into someone!
+            nextPositions.erase(end);
+        } else {
+            nextPositions[end] = p->second;
         }
-
-        for (int y = 0; y < height; y++) {
-            for (int x = 0; x < width; x++) {
-                string loc = locationString(make_pair(x, y));
-                if (toRemove.count(loc)) {
-                    cout << "X";
-                } else if (seen.count(loc)) {
-                    cout << seen[loc];
-                } else {
-                    cout << (char)track[x][y];
-                }
-            }
-            cout << "\n";
-        }
-        cout << "\n";
-        carts.remove_if([toRemove, t](Cart c){
-            return toRemove.count(c.at(t).location());
-        });
-        toRemove.clear();
-        seen.clear();
     }
-    return carts.front().at(t-1).location();
+    return nextPositions;
 }
-
 string findLastCart(list<Cart> carts) {
-    unordered_set<string> seen;
-    int t;
-    for (t = 0; carts.size() != 1; t++) {
-        unordered_set<string> toRemove;
-        for (auto cart = carts.begin(); cart != carts.end(); cart++) {
-            string loc = cart->at(t).location();
-            if (seen.count(loc)) {
-                toRemove.insert(loc);
-            } else {
-                seen.insert(loc);
-            }
-        }
-        if (toRemove.size() > 0) {
-            for (auto loc = toRemove.begin(); loc != toRemove.end(); loc++) {
-                cout << "Crash at " << *loc << "\n";
-            }
-            cout << t << ": "
-                << carts.size() << ", " << toRemove.size() << ", ";
-            carts.remove_if([toRemove, t](Cart c){
-                return toRemove.count(c.at(t).location());
-            });
-            cout << carts.size() << "\n";
-        }
-        toRemove.clear();
-        seen.clear();
+    map<int, Cart*> positions;
+    for (auto cart = carts.begin(); cart != carts.end(); cart++) {
+        positions[cart->at(0).sortablePos()] = &*cart;
     }
-    //Cart c = carts.front();
-    //for (int x = 0; x < c.npositions; x++) {
-    //    cout << x << "::" << locationString(c.positions[x]) << "\n";
-    //}
-    //cout << t << ": "; 
-    return carts.front().at(t-1).location();
+    int t;
+    for (t = 1; positions.size() != 1; t++) {
+        positions = tick(positions, t);
+    }
+    return positions.begin()->second->at(t-1).location();
 }
 int main()
 {
@@ -336,7 +289,7 @@ int main()
       }
     }
     
-    cout << showMe(carts, track, width, height) << "\n";
+    cout << findLastCart(carts) << "\n";
 
     return 0;
 }

@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 14
-Puzzles solved: 24
+Languages so far: 15
+Puzzles solved: 26
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 13       >24h   7009      0       >24h   6716      0
  12       >24h   8642      0       >24h   7704      0
  11       >24h   9381      0       >24h   9553      0
  10       >24h   9413      0       >24h   9381      0
@@ -114,7 +115,11 @@ Saw the OO solution right away - so I wanted to pick a new OO language to learn.
 there was a pretty good functional solution right underneath my OO one - so this turned
 out to be a bit of a Hybrid.
 
-### [Day 13](https://adventofcode.com/2018/day/13) - [TBD](days/13/puzzles/)
+### [Day 13](https://adventofcode.com/2018/day/13) - [C++](days/13/puzzles/)
+Oh, I overthought this one a lot.  Sort of "Once bitten, twice shy" with all the massive scale
+issues in the previous ones.  I chose C++ because... I... felt like it?  Not a great reason.
+It was a lot of code.
+
 ### [Day 14](https://adventofcode.com/2018/day/14) - [TBD](days/14/puzzles/)
 ### [Day 15](https://adventofcode.com/2018/day/15) - [TBD](days/15/puzzles/)
 ### [Day 16](https://adventofcode.com/2018/day/16) - [TBD](days/16/puzzles/)
