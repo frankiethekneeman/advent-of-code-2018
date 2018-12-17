@@ -146,8 +146,8 @@ not make me feel like a wizard. But I did use it.
 - Scheme
 
 
-##Day 1
-###Puzzle 1
+## Day 1
+### Puzzle 1
 Run 1 of 1
 ```
 420
@@ -156,7 +156,7 @@ real	0m0.113s
 user	0m0.031s
 sys	0m0.063s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 227
@@ -165,8 +165,8 @@ real	0m0.151s
 user	0m0.047s
 sys	0m0.078s
 ```
-##Day 2
-###Puzzle 1
+## Day 2
+### Puzzle 1
 Run 1 of 1
 ```
 6696
