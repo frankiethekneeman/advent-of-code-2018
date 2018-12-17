@@ -145,7 +145,7 @@ not make me feel like a wizard. But I did use it.
 - Erlang
 - Scheme
 
-
+# Results
 ## Day 1
 ### Puzzle 1
 Run 1 of 1
@@ -175,7 +175,7 @@ real	0m1.798s
 user	0m1.703s
 sys	0m0.734s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 bvnfawcnyoeyudzrpgslimtkj
@@ -184,8 +184,8 @@ real	0m1.637s
 user	0m1.594s
 sys	0m0.766s
 ```
-##Day 3
-###Puzzle 1
+## Day 3
+### Puzzle 1
 Run 1 of 1
 ```
 121259
@@ -193,7 +193,7 @@ real	0m4.449s
 user	0m4.234s
 sys	0m0.188s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 239
@@ -201,8 +201,8 @@ real	0m0.355s
 user	0m0.234s
 sys	0m0.109s
 ```
-##Day 4
-###Puzzle 1
+## Day 4
+### Puzzle 1
 Run 1 of 1
 ```
 50558
@@ -211,7 +211,7 @@ real	0m0.088s
 user	0m0.063s
 sys	0m0.063s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 28198
@@ -220,8 +220,8 @@ real	0m0.113s
 user	0m0.031s
 sys	0m0.094s
 ```
-##Day 5
-###Puzzle 1
+## Day 5
+### Puzzle 1
 Run 1 of 1
 ```
 11754
@@ -230,7 +230,7 @@ real	0m0.319s
 user	0m0.031s
 sys	0m0.250s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 4098
@@ -239,8 +239,8 @@ real	0m0.432s
 user	0m0.125s
 sys	0m0.250s
 ```
-##Day 6
-###Puzzle 1
+## Day 6
+### Puzzle 1
 Run 1 of 1
 ```
 3660
@@ -249,7 +249,7 @@ real	0m0.770s
 user	0m0.188s
 sys	0m1.469s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 35928
@@ -258,8 +258,8 @@ real	0m0.639s
 user	0m0.500s
 sys	0m1.125s
 ```
-##Day 7
-###Puzzle 1
+## Day 7
+### Puzzle 1
 Run 1 of 1
 ```
 BETUFNVADWGPLRJOHMXKZQCISY
@@ -268,7 +268,7 @@ real	0m6.207s
 user	0m11.172s
 sys	0m2.656s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 848
@@ -277,8 +277,8 @@ real	0m6.400s
 user	0m12.188s
 sys	0m2.313s
 ```
-##Day 8
-###Puzzle 1
+## Day 8
+### Puzzle 1
 Run 1 of 1
 ```
 40309
@@ -287,7 +287,7 @@ real	0m0.437s
 user	0m0.109s
 sys	0m0.297s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 28779
@@ -296,8 +296,8 @@ real	0m0.377s
 user	0m0.047s
 sys	0m0.297s
 ```
-##Day 9
-###Puzzle 1
+## Day 9
+### Puzzle 1
 Run 1 of 1
 ```
 367634
@@ -306,7 +306,7 @@ real	0m1.649s
 user	0m0.766s
 sys	0m1.047s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 3020072891
@@ -315,8 +315,8 @@ real	0m4.491s
 user	0m3.234s
 sys	0m1.422s
 ```
-##Day 10
-###Puzzle 1
+## Day 10
+### Puzzle 1
 Run 1 of 1
 ```
 ######..#....#....##....#.......#.......#....#..#.......#####.
@@ -334,7 +334,7 @@ real	0m50.313s
 user	0m31.328s
 sys	0m18.969s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 10227
@@ -343,8 +343,8 @@ real	0m50.059s
 user	0m30.359s
 sys	0m19.609s
 ```
-##Day 11
-###Puzzle 1
+## Day 11
+### Puzzle 1
 Run 1 of 1
 ```
 243 27
@@ -353,7 +353,7 @@ real	274m25.424s
 user	13m27.516s
 sys	232m36.875s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 "284,172,12"
@@ -362,8 +362,8 @@ real	28m55.992s
 user	309m44.125s
 sys	1m12.766s
 ```
-##Day 12
-###Puzzle 1
+## Day 12
+### Puzzle 1
 Run 1 of 1
 ```
 3890
@@ -372,7 +372,7 @@ real	0m1.662s
 user	0m0.891s
 sys	0m1.078s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 4800000001087
@@ -381,8 +381,8 @@ real	0m1.839s
 user	0m0.891s
 sys	0m1.109s
 ```
-##Day 13
-###Puzzle 1
+## Day 13
+### Puzzle 1
 Run 1 of 1
 ```
 8,9
@@ -391,7 +391,7 @@ real	0m2.406s
 user	0m1.469s
 sys	0m0.922s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 73,33
@@ -400,8 +400,8 @@ real	0m1.710s
 user	0m0.938s
 sys	0m0.656s
 ```
-##Day 14
-###Puzzle 1
+## Day 14
+### Puzzle 1
 Run 1 of 1
 ```
 2688510125
@@ -410,7 +410,7 @@ real	6m38.535s
 user	6m37.906s
 sys	0m0.203s
 ```
-###Puzzle 2
+### Puzzle 2
 Run 1 of 1
 ```
 20188250
@@ -419,58 +419,58 @@ real	4m3.608s
 user	3m48.266s
 sys	0m15.266s
 ```
-##Day 15
-###Puzzle 1
+## Day 15
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 16
-###Puzzle 1
+## Day 16
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 17
-###Puzzle 1
+## Day 17
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 18
-###Puzzle 1
+## Day 18
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 19
-###Puzzle 1
+## Day 19
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 20
-###Puzzle 1
+## Day 20
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 21
-###Puzzle 1
+## Day 21
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 22
-###Puzzle 1
+## Day 22
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 23
-###Puzzle 1
+## Day 23
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 24
-###Puzzle 1
+## Day 24
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
-##Day 25
-###Puzzle 1
+## Day 25
+### Puzzle 1
    Puzzle not yet solved.
-###Puzzle 2
+### Puzzle 2
    Puzzle not yet solved.
