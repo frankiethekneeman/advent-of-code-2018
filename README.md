@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 15
-Puzzles solved: 26
+Languages so far: 16
+Puzzles solved: 28
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 14       >24h   7123      0       >24h   6708      0
  13       >24h   7009      0       >24h   6716      0
  12       >24h   8642      0       >24h   7704      0
  11       >24h   9381      0       >24h   9553      0
@@ -120,7 +121,10 @@ Oh, I overthought this one a lot.  Sort of "Once bitten, twice shy" with all the
 issues in the previous ones.  I chose C++ because... I... felt like it?  Not a great reason.
 It was a lot of code.
 
-### [Day 14](https://adventofcode.com/2018/day/14) - [TBD](days/14/puzzles/)
+### [Day 14](https://adventofcode.com/2018/day/14) - [Perl](days/14/puzzles/)
+Perl is supposed to be this whizbang language that everyone loves.  I did not love it.  It did
+not make me feel like a wizard. But I did use it.
+
 ### [Day 15](https://adventofcode.com/2018/day/15) - [TBD](days/15/puzzles/)
 ### [Day 16](https://adventofcode.com/2018/day/16) - [TBD](days/16/puzzles/)
 ### [Day 17](https://adventofcode.com/2018/day/17) - [TBD](days/17/puzzles/)
@@ -135,9 +139,8 @@ It was a lot of code.
 
 ## Languages that are on my list, but I haven't used yet
 - Elixir
-- Perl
 - Lisp
 - Lua
 - Ruby
 - Erlang
-- Scheme?
+- Scheme

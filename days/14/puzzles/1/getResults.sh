@@ -1,0 +1,1 @@
+perl program.pl < input
