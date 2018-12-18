@@ -8,6 +8,7 @@ Puzzles solved: 28
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 15       >24h   3378      0       >24h   3173      0
  14       >24h   7123      0       >24h   6708      0
  13       >24h   7009      0       >24h   6716      0
  12       >24h   8642      0       >24h   7704      0
@@ -125,7 +126,10 @@ It was a lot of code.
 Perl is supposed to be this whizbang language that everyone loves.  I did not love it.  It did
 not make me feel like a wizard. But I did use it.
 
-### [Day 15](https://adventofcode.com/2018/day/15) - [TBD](days/15/puzzles/)
+### [Day 15](https://adventofcode.com/2018/day/15) - [Ruby](days/15/puzzles/)
+I find Depth first search easiest to implement in an OO context.  But Ruby
+does a good job with mix and match.
+
 ### [Day 16](https://adventofcode.com/2018/day/16) - [TBD](days/16/puzzles/)
 ### [Day 17](https://adventofcode.com/2018/day/17) - [TBD](days/17/puzzles/)
 ### [Day 18](https://adventofcode.com/2018/day/18) - [TBD](days/18/puzzles/)
@@ -141,7 +145,6 @@ not make me feel like a wizard. But I did use it.
 - Elixir
 - Lisp
 - Lua
-- Ruby
 - Erlang
 - Scheme
 

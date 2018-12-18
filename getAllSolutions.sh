@@ -7,7 +7,7 @@ do
     do
         echo "###Puzzle $puzzle"
         target="days/$day/puzzles/$puzzle/"
-        if [ -d $target ]
+        if [ -f $target/getResults.sh ]
         then
             cd $target 2>&1 >/dev/null
             for run in $(seq 1 $runs)
@@ -19,7 +19,7 @@ do
             done
             cd - 2>&1 >/dev/null
         else
-            echo "   Puzzle not yet solved."
+            echo "Puzzle not yet solved."
         fi
     done
 done
