@@ -3,8 +3,8 @@
 I'm doing it.
 
 ```
-Languages so far: 16
-Puzzles solved: 28
+Languages so far: 17
+Puzzles solved: 30
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
@@ -155,17 +155,17 @@ Run 1 of 1
 ```
 420
 
-real	0m0.113s
-user	0m0.031s
-sys	0m0.063s
+real	0m0.114s
+user	0m0.078s
+sys	0m0.031s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 227
 
-real	0m0.151s
-user	0m0.047s
+real	0m0.155s
+user	0m0.063s
 sys	0m0.078s
 ```
 ## Day 2
@@ -174,35 +174,35 @@ Run 1 of 1
 ```
 6696
 
-real	0m1.798s
-user	0m1.703s
-sys	0m0.734s
+real	0m1.771s
+user	0m1.625s
+sys	0m0.719s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 bvnfawcnyoeyudzrpgslimtkj
 
-real	0m1.637s
-user	0m1.594s
-sys	0m0.766s
+real	0m1.649s
+user	0m1.406s
+sys	0m0.688s
 ```
 ## Day 3
 ### Puzzle 1
 Run 1 of 1
 ```
 121259
-real	0m4.449s
-user	0m4.234s
-sys	0m0.188s
+real	0m4.531s
+user	0m4.391s
+sys	0m0.141s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 239
-real	0m0.355s
-user	0m0.234s
-sys	0m0.109s
+real	0m0.363s
+user	0m0.250s
+sys	0m0.094s
 ```
 ## Day 4
 ### Puzzle 1
@@ -210,18 +210,18 @@ Run 1 of 1
 ```
 50558
 
-real	0m0.088s
-user	0m0.063s
-sys	0m0.063s
+real	0m0.130s
+user	0m0.031s
+sys	0m0.078s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 28198
 
-real	0m0.113s
-user	0m0.031s
-sys	0m0.094s
+real	0m0.054s
+user	0m0.016s
+sys	0m0.063s
 ```
 ## Day 5
 ### Puzzle 1
@@ -229,18 +229,18 @@ Run 1 of 1
 ```
 11754
 
-real	0m0.319s
-user	0m0.031s
-sys	0m0.250s
+real	0m0.618s
+user	0m0.047s
+sys	0m0.188s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 4098
 
-real	0m0.432s
+real	0m0.333s
 user	0m0.125s
-sys	0m0.250s
+sys	0m0.141s
 ```
 ## Day 6
 ### Puzzle 1
@@ -248,18 +248,18 @@ Run 1 of 1
 ```
 3660
 
-real	0m0.770s
-user	0m0.188s
-sys	0m1.469s
+real	0m2.342s
+user	0m0.313s
+sys	0m0.984s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 35928
 
-real	0m0.639s
-user	0m0.500s
-sys	0m1.125s
+real	0m0.453s
+user	0m0.203s
+sys	0m0.766s
 ```
 ## Day 7
 ### Puzzle 1
@@ -267,18 +267,18 @@ Run 1 of 1
 ```
 BETUFNVADWGPLRJOHMXKZQCISY
 
-real	0m6.207s
-user	0m11.172s
-sys	0m2.656s
+real	0m6.189s
+user	0m11.328s
+sys	0m2.109s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 848
 
-real	0m6.400s
-user	0m12.188s
-sys	0m2.313s
+real	0m6.700s
+user	0m12.563s
+sys	0m2.406s
 ```
 ## Day 8
 ### Puzzle 1
@@ -286,18 +286,18 @@ Run 1 of 1
 ```
 40309
 
-real	0m0.437s
-user	0m0.109s
-sys	0m0.297s
+real	0m1.608s
+user	0m0.156s
+sys	0m0.344s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 28779
 
-real	0m0.377s
-user	0m0.047s
-sys	0m0.297s
+real	0m0.418s
+user	0m0.125s
+sys	0m0.234s
 ```
 ## Day 9
 ### Puzzle 1
@@ -305,18 +305,18 @@ Run 1 of 1
 ```
 367634
 
-real	0m1.649s
-user	0m0.766s
-sys	0m1.047s
+real	0m3.262s
+user	0m0.906s
+sys	0m1.281s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 3020072891
 
-real	0m4.491s
-user	0m3.234s
-sys	0m1.422s
+real	0m4.645s
+user	0m3.313s
+sys	0m1.391s
 ```
 ## Day 10
 ### Puzzle 1
@@ -333,18 +333,18 @@ Run 1 of 1
 #.......#...#...#....#..#.......#.......#...#...#.......#....#
 ######..#....#..#....#..######..######..#....#..######..#####.
 
-real	0m50.313s
-user	0m31.328s
-sys	0m18.969s
+real	0m51.712s
+user	0m32.500s
+sys	0m18.953s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 10227
 
-real	0m50.059s
-user	0m30.359s
-sys	0m19.609s
+real	1m0.072s
+user	0m38.063s
+sys	0m21.766s
 ```
 ## Day 11
 ### Puzzle 1
@@ -352,18 +352,18 @@ Run 1 of 1
 ```
 243 27
 
-real	274m25.424s
-user	13m27.516s
-sys	232m36.875s
+real	277m42.646s
+user	13m12.172s
+sys	231m3.297s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 "284,172,12"
 
-real	28m55.992s
-user	309m44.125s
-sys	1m12.766s
+real	28m18.589s
+user	295m2.016s
+sys	1m11.234s
 ```
 ## Day 12
 ### Puzzle 1
@@ -371,18 +371,18 @@ Run 1 of 1
 ```
 3890
 
-real	0m1.662s
-user	0m0.891s
-sys	0m1.078s
+real	0m3.167s
+user	0m0.719s
+sys	0m1.469s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 4800000001087
 
-real	0m1.839s
-user	0m0.891s
-sys	0m1.109s
+real	0m2.045s
+user	0m0.938s
+sys	0m1.203s
 ```
 ## Day 13
 ### Puzzle 1
@@ -390,18 +390,18 @@ Run 1 of 1
 ```
 8,9
 
-real	0m2.406s
-user	0m1.469s
-sys	0m0.922s
+real	0m3.639s
+user	0m1.609s
+sys	0m1.234s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 73,33
 
-real	0m1.710s
-user	0m0.938s
-sys	0m0.656s
+real	0m1.878s
+user	0m0.844s
+sys	0m0.922s
 ```
 ## Day 14
 ### Puzzle 1
@@ -409,71 +409,85 @@ Run 1 of 1
 ```
 2688510125
 
-real	6m38.535s
-user	6m37.906s
-sys	0m0.203s
+real	6m42.278s
+user	6m41.109s
+sys	0m0.141s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 20188250
 
-real	4m3.608s
-user	3m48.266s
-sys	0m15.266s
+real	4m9.535s
+user	3m53.109s
+sys	0m16.281s
 ```
 ## Day 15
 ### Puzzle 1
-   Puzzle not yet solved.
+Run 1 of 1
+```
+190012
+
+real	0m0.714s
+user	0m0.641s
+sys	0m0.047s
+```
 ### Puzzle 2
-   Puzzle not yet solved.
+Run 1 of 1
+```
+34364
+
+real	0m5.292s
+user	0m5.234s
+sys	0m0.047s
+```
 ## Day 16
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 17
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 18
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 19
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 20
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 21
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 22
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 23
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 24
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ## Day 25
 ### Puzzle 1
-   Puzzle not yet solved.
+Puzzle not yet solved.
 ### Puzzle 2
-   Puzzle not yet solved.
+Puzzle not yet solved.
