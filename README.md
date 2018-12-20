@@ -130,7 +130,11 @@ not make me feel like a wizard. But I did use it.
 I find Depth first search easiest to implement in an OO context.  But Ruby
 does a good job with mix and match.
 
-### [Day 16](https://adventofcode.com/2018/day/16) - [TBD](days/16/puzzles/)
+### [Day 16](https://adventofcode.com/2018/day/16) - [Common Lisp](days/16/puzzles/)
+I knew I wanted to do this in a purely functional language, and if the internet is to
+be believed, "Lisp will make you a programmer".  I'm not better after this, but lisp was mega fun
+to write in.
+
 ### [Day 17](https://adventofcode.com/2018/day/17) - [TBD](days/17/puzzles/)
 ### [Day 18](https://adventofcode.com/2018/day/18) - [TBD](days/18/puzzles/)
 ### [Day 19](https://adventofcode.com/2018/day/19) - [TBD](days/19/puzzles/)
