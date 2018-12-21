@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 17
-Puzzles solved: 30
+Languages so far: 18
+Puzzles solved: 32
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 16       >24h   5521      0       >24h   5388      0
  15       >24h   3378      0       >24h   3173      0
  14       >24h   7123      0       >24h   6708      0
  13       >24h   7009      0       >24h   6716      0
