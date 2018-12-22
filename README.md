@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 18
-Puzzles solved: 32
+Languages so far: 19
+Puzzles solved: 34
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 17       >24h   3659      0       >24h   3630      0
  16       >24h   5521      0       >24h   5388      0
  15       >24h   3378      0       >24h   3173      0
  14       >24h   7123      0       >24h   6708      0
@@ -136,7 +137,11 @@ I knew I wanted to do this in a purely functional language, and if the internet 
 be believed, "Lisp will make you a programmer".  I'm not better after this, but lisp was mega fun
 to write in.
 
-### [Day 17](https://adventofcode.com/2018/day/17) - [TBD](days/17/puzzles/)
+### [Day 17](https://adventofcode.com/2018/day/17) - [Elixir](days/17/puzzles/)
+I dunno guys.  I'm running out of languages - and patience for these effing two dimensional
+puzzles.  Elixir was okay, I guess.  Pretty much just another functional paradigm.  I
+didn't really get into all the Communicating Sequential Process stuff.
+
 ### [Day 18](https://adventofcode.com/2018/day/18) - [TBD](days/18/puzzles/)
 ### [Day 19](https://adventofcode.com/2018/day/19) - [TBD](days/19/puzzles/)
 ### [Day 20](https://adventofcode.com/2018/day/20) - [TBD](days/20/puzzles/)
@@ -147,8 +152,6 @@ to write in.
 ### [Day 25](https://adventofcode.com/2018/day/25) - [TBD](days/25/puzzles/)
 
 ## Languages that are on my list, but I haven't used yet
-- Elixir
-- Lisp
 - Lua
 - Erlang
 - Scheme
