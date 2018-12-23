@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 19
-Puzzles solved: 34
+Languages so far: 20
+Puzzles solved: 36
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 18       >24h   5209      0       >24h   4866      0
  17       >24h   3659      0       >24h   3630      0
  16       >24h   5521      0       >24h   5388      0
  15       >24h   3378      0       >24h   3173      0
@@ -142,7 +143,10 @@ I dunno guys.  I'm running out of languages - and patience for these effing two 
 puzzles.  Elixir was okay, I guess.  Pretty much just another functional paradigm.  I
 didn't really get into all the Communicating Sequential Process stuff.
 
-### [Day 18](https://adventofcode.com/2018/day/18) - [TBD](days/18/puzzles/)
+### [Day 18](https://adventofcode.com/2018/day/18) - [Kotlin](days/18/puzzles/)
+I was so tired of immutability at this point, I just needed to use a standard OO language, so
+I decided to see how bad Kotlin could really be. It was fine.  Oodles of that good Scala DNA.
+
 ### [Day 19](https://adventofcode.com/2018/day/19) - [TBD](days/19/puzzles/)
 ### [Day 20](https://adventofcode.com/2018/day/20) - [TBD](days/20/puzzles/)
 ### [Day 21](https://adventofcode.com/2018/day/21) - [TBD](days/21/puzzles/)
