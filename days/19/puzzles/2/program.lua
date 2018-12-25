@@ -73,7 +73,7 @@ while op do
     io.read("*l") -- chomp the line
     op = io.read(4)
 end
-rs = {0, 0, 0, 0, 0, 0}
+rs = {1, 0, 0, 0, 0, 0}
 
 ip = rs[ir] + 1
 while program[ip] do

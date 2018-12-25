@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 21
-Puzzles solved: 38
+Languages so far: 22
+Puzzles solved: 40
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 20       >24h   3166      0       >24h   3028      0
  19       >24h   4427      0       >24h   3641      0
  18       >24h   5209      0       >24h   4866      0
  17       >24h   3659      0       >24h   3630      0
@@ -152,7 +153,11 @@ I decided to see how bad Kotlin could really be. It was fine.  Oodles of that go
 Lua is a bizarre language.  1 Based arrays, 0 is truthy.  Just weird.  Interesting learn, though.
 And dereferencing a string against the global scope to get the function in question?  Very helpful.
 
-### [Day 20](https://adventofcode.com/2018/day/20) - [TBD](days/20/puzzles/)
+### [Day 20](https://adventofcode.com/2018/day/20) - [Erlang](days/20/puzzles/)
+I was going to do this in a mutable, OO way.  But the more I thought about it, the more I realized
+I could do it in an immutable, functional way.  It's like a Cordyceps fungus.  So I figured I'd give
+Erlang a try.
+
 ### [Day 21](https://adventofcode.com/2018/day/21) - [TBD](days/21/puzzles/)
 ### [Day 22](https://adventofcode.com/2018/day/22) - [TBD](days/22/puzzles/)
 ### [Day 23](https://adventofcode.com/2018/day/23) - [TBD](days/23/puzzles/)
@@ -160,7 +165,6 @@ And dereferencing a string against the global scope to get the function in quest
 ### [Day 25](https://adventofcode.com/2018/day/25) - [TBD](days/25/puzzles/)
 
 ## Languages that are on my list, but I haven't used yet
-- Erlang
 - Scheme
 - C#
 - F#
@@ -174,18 +178,18 @@ Run 1 of 1
 ```
 420
 
-real	0m0.109s
+real	0m0.166s
 user	0m0.031s
-sys	0m0.047s
+sys	0m0.109s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 227
 
-real	0m0.114s
+real	0m0.426s
 user	0m0.031s
-sys	0m0.078s
+sys	0m0.063s
 ```
 ## Day 2
 ### Puzzle 1
@@ -193,35 +197,35 @@ Run 1 of 1
 ```
 6696
 
-real	0m1.660s
-user	0m1.453s
-sys	0m0.688s
+real	0m1.952s
+user	0m1.984s
+sys	0m0.484s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 bvnfawcnyoeyudzrpgslimtkj
 
-real	0m1.563s
-user	0m1.281s
-sys	0m0.719s
+real	0m1.715s
+user	0m1.516s
+sys	0m0.594s
 ```
 ## Day 3
 ### Puzzle 1
 Run 1 of 1
 ```
 121259
-real	0m4.400s
-user	0m4.234s
-sys	0m0.172s
+real	0m4.516s
+user	0m4.313s
+sys	0m0.109s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 239
-real	0m0.356s
-user	0m0.313s
-sys	0m0.078s
+real	0m0.383s
+user	0m0.266s
+sys	0m0.063s
 ```
 ## Day 4
 ### Puzzle 1
@@ -229,8 +233,8 @@ Run 1 of 1
 ```
 50558
 
-real	0m0.091s
-user	0m0.016s
+real	0m0.112s
+user	0m0.031s
 sys	0m0.078s
 ```
 ### Puzzle 2
@@ -238,9 +242,9 @@ Run 1 of 1
 ```
 28198
 
-real	0m0.074s
-user	0m0.016s
-sys	0m0.078s
+real	0m0.093s
+user	0m0.031s
+sys	0m0.094s
 ```
 ## Day 5
 ### Puzzle 1
@@ -248,18 +252,18 @@ Run 1 of 1
 ```
 11754
 
-real	0m0.263s
-user	0m0.047s
-sys	0m0.203s
+real	0m0.545s
+user	0m0.016s
+sys	0m0.266s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 4098
 
-real	0m0.416s
-user	0m0.141s
-sys	0m0.266s
+real	0m0.522s
+user	0m0.094s
+sys	0m0.313s
 ```
 ## Day 6
 ### Puzzle 1
@@ -267,18 +271,18 @@ Run 1 of 1
 ```
 3660
 
-real	0m0.531s
-user	0m0.313s
-sys	0m0.828s
+real	0m2.186s
+user	0m0.344s
+sys	0m1.094s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 35928
 
-real	0m0.466s
-user	0m0.328s
-sys	0m0.703s
+real	0m0.618s
+user	0m0.516s
+sys	0m1.016s
 ```
 ## Day 7
 ### Puzzle 1
@@ -286,18 +290,18 @@ Run 1 of 1
 ```
 BETUFNVADWGPLRJOHMXKZQCISY
 
-real	0m5.629s
-user	0m10.906s
-sys	0m2.203s
+real	0m6.298s
+user	0m11.531s
+sys	0m2.328s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 848
 
-real	0m5.720s
-user	0m11.344s
-sys	0m2.125s
+real	0m6.494s
+user	0m12.359s
+sys	0m2.359s
 ```
 ## Day 8
 ### Puzzle 1
@@ -305,7 +309,7 @@ Run 1 of 1
 ```
 40309
 
-real	0m0.355s
+real	0m0.682s
 user	0m0.094s
 sys	0m0.266s
 ```
@@ -314,9 +318,9 @@ Run 1 of 1
 ```
 28779
 
-real	0m0.304s
-user	0m0.094s
-sys	0m0.172s
+real	0m0.405s
+user	0m0.156s
+sys	0m0.203s
 ```
 ## Day 9
 ### Puzzle 1
@@ -324,17 +328,17 @@ Run 1 of 1
 ```
 367634
 
-real	0m1.550s
-user	0m0.578s
-sys	0m1.000s
+real	0m1.774s
+user	0m0.594s
+sys	0m1.078s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 3020072891
 
-real	0m4.449s
-user	0m3.172s
+real	0m4.596s
+user	0m3.375s
 sys	0m1.469s
 ```
 ## Day 10
@@ -352,18 +356,18 @@ Run 1 of 1
 #.......#...#...#....#..#.......#.......#...#...#.......#....#
 ######..#....#..#....#..######..######..#....#..######..#####.
 
-real	0m49.830s
-user	0m30.906s
-sys	0m18.641s
+real	0m49.889s
+user	0m31.438s
+sys	0m18.234s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 10227
 
-real	0m49.943s
-user	0m31.266s
-sys	0m18.594s
+real	0m49.788s
+user	0m32.078s
+sys	0m17.672s
 ```
 ## Day 11
 ### Puzzle 1
@@ -371,18 +375,18 @@ Run 1 of 1
 ```
 243 27
 
-real	161m53.533s
-user	7m39.656s
-sys	134m51.094s
+real	277m48.879s
+user	13m34.891s
+sys	235m8.609s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 "284,172,12"
 
-real	27m46.762s
-user	265m56.734s
-sys	1m29.031s
+real	27m57.038s
+user	298m25.516s
+sys	1m14.172s
 ```
 ## Day 12
 ### Puzzle 1
@@ -390,18 +394,18 @@ Run 1 of 1
 ```
 3890
 
-real	0m1.555s
-user	0m0.656s
-sys	0m1.000s
+real	0m2.416s
+user	0m0.391s
+sys	0m1.172s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 4800000001087
 
-real	0m1.637s
-user	0m0.453s
-sys	0m1.031s
+real	0m1.932s
+user	0m0.734s
+sys	0m1.344s
 ```
 ## Day 13
 ### Puzzle 1
@@ -409,18 +413,18 @@ Run 1 of 1
 ```
 8,9
 
-real	0m2.392s
-user	0m1.516s
-sys	0m0.844s
+real	0m2.890s
+user	0m1.438s
+sys	0m0.891s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 73,33
 
-real	0m1.638s
-user	0m0.859s
-sys	0m0.750s
+real	0m1.701s
+user	0m0.969s
+sys	0m0.609s
 ```
 ## Day 14
 ### Puzzle 1
@@ -428,8 +432,8 @@ Run 1 of 1
 ```
 2688510125
 
-real	6m49.660s
-user	6m49.484s
+real	6m34.359s
+user	6m34.203s
 sys	0m0.078s
 ```
 ### Puzzle 2
@@ -437,9 +441,9 @@ Run 1 of 1
 ```
 20188250
 
-real	4m6.901s
-user	3m50.625s
-sys	0m16.141s
+real	4m4.565s
+user	3m49.469s
+sys	0m15.078s
 ```
 ## Day 15
 ### Puzzle 1
@@ -447,18 +451,18 @@ Run 1 of 1
 ```
 190012
 
-real	0m0.695s
-user	0m0.625s
-sys	0m0.063s
+real	0m0.928s
+user	0m0.641s
+sys	0m0.094s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 34364
 
-real	0m5.386s
-user	0m5.281s
-sys	0m0.094s
+real	0m5.230s
+user	0m5.109s
+sys	0m0.109s
 ```
 ## Day 16
 ### Puzzle 1
@@ -467,9 +471,9 @@ Run 1 of 1
 
 531 
 
-real	0m0.622s
-user	0m0.188s
-sys	0m0.422s
+real	0m0.682s
+user	0m0.172s
+sys	0m0.406s
 ```
 ### Puzzle 2
 Run 1 of 1
@@ -477,9 +481,9 @@ Run 1 of 1
 
 649 
 
-real	0m0.343s
-user	0m0.063s
-sys	0m0.266s
+real	0m0.383s
+user	0m0.109s
+sys	0m0.234s
 ```
 ## Day 17
 ### Puzzle 1
@@ -487,18 +491,18 @@ Run 1 of 1
 ```
 31158
 
-real	4m57.036s
-user	4m47.406s
-sys	0m26.469s
+real	4m43.062s
+user	4m31.250s
+sys	0m29.813s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 25419
 
-real	4m51.306s
-user	4m45.344s
-sys	0m21.953s
+real	4m35.117s
+user	4m24.906s
+sys	0m28.875s
 ```
 ## Day 18
 ### Puzzle 1
@@ -506,18 +510,18 @@ Run 1 of 1
 ```
 495236
 
-real	0m6.288s
-user	0m8.547s
-sys	0m3.125s
+real	0m6.708s
+user	0m10.281s
+sys	0m3.547s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 201348
 
-real	0m7.736s
-user	0m10.719s
-sys	0m3.563s
+real	0m8.428s
+user	0m11.859s
+sys	0m4.594s
 ```
 ## Day 19
 ### Puzzle 1
@@ -525,21 +529,18 @@ Run 1 of 1
 ```
 1968
 
-real	0m3.226s
-user	0m3.203s
-sys	0m0.016s
+real	0m3.201s
+user	0m3.125s
+sys	0m0.031s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
-lua: interrupted!
-stack traceback:
-	program.lua:86: in main chunk
-	[C]: in ?
+1968
 
-real	115m46.435s
-user	115m35.172s
-sys	0m0.125s
+real	0m0.057s
+user	0m0.000s
+sys	0m0.047s
 ```
 ## Day 20
 ### Puzzle 1
