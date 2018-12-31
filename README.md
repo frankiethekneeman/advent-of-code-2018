@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 22
-Puzzles solved: 40
+Languages so far: 23
+Puzzles solved: 42
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 21       >24h   3363      0       >24h   3134      0
  20       >24h   3166      0       >24h   3028      0
  19       >24h   4427      0       >24h   3641      0
  18       >24h   5209      0       >24h   4866      0
@@ -158,7 +159,13 @@ I was going to do this in a mutable, OO way.  But the more I thought about it, t
 I could do it in an immutable, functional way.  It's like a Cordyceps fungus.  So I figured I'd give
 Erlang a try.
 
-### [Day 21](https://adventofcode.com/2018/day/21) - [TBD](days/21/puzzles/)
+### [Day 21](https://adventofcode.com/2018/day/21) - [Io](days/21/puzzles/)
+I love to wax poetic about how cool and interesting Prototypical inheritance is, and how tragic it
+is to see Javascript throwing away its interesting heritage in favor of looking like a "classical"
+language.  Prototypes are sweet, and Io is sweet.  However, it _is_ virtually ungoogleable.
+
+[Here it is, though.](https://iolanguage.org/index.html)
+
 ### [Day 22](https://adventofcode.com/2018/day/22) - [TBD](days/22/puzzles/)
 ### [Day 23](https://adventofcode.com/2018/day/23) - [TBD](days/23/puzzles/)
 ### [Day 24](https://adventofcode.com/2018/day/24) - [TBD](days/24/puzzles/)
@@ -169,7 +176,6 @@ Erlang a try.
 - C#
 - F#
 - Julia
-- IO
 
 # Results
 ## Day 1
