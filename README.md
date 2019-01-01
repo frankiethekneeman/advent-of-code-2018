@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 23
-Puzzles solved: 42
+Languages so far: 24
+Puzzles solved: 44
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 22       >24h   3873      0       >24h   2862      0
  21       >24h   3363      0       >24h   3134      0
  20       >24h   3166      0       >24h   3028      0
  19       >24h   4427      0       >24h   3641      0
@@ -166,14 +167,16 @@ language.  Prototypes are sweet, and Io is sweet.  However, it _is_ virtually un
 
 [Here it is, though.](https://iolanguage.org/index.html)
 
-### [Day 22](https://adventofcode.com/2018/day/22) - [TBD](days/22/puzzles/)
+### [Day 22](https://adventofcode.com/2018/day/22) - [C#](days/22/puzzles/)
+I'm so tired of immutability and pure functionalism.  I scraped for an OO language.  This is how
+my brain works.
+
 ### [Day 23](https://adventofcode.com/2018/day/23) - [TBD](days/23/puzzles/)
 ### [Day 24](https://adventofcode.com/2018/day/24) - [TBD](days/24/puzzles/)
 ### [Day 25](https://adventofcode.com/2018/day/25) - [TBD](days/25/puzzles/)
 
 ## Languages that are on my list, but I haven't used yet
 - Scheme
-- C#
 - F#
 - Julia
 
