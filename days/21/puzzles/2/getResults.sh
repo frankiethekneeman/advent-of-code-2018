@@ -1,3 +1,3 @@
 #!/bin/bash
-io program.io < input
+io otherProgram.io < input
 
