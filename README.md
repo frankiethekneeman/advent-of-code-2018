@@ -190,17 +190,17 @@ Run 1 of 1
 ```
 420
 
-real	0m0.174s
-user	0m0.063s
-sys	0m0.078s
+real	0m0.154s
+user	0m0.031s
+sys	0m0.094s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 227
 
-real	0m0.605s
-user	0m0.078s
+real	0m0.678s
+user	0m0.031s
 sys	0m0.141s
 ```
 ## Day 2
@@ -209,35 +209,35 @@ Run 1 of 1
 ```
 6696
 
-real	0m2.667s
-user	0m1.938s
-sys	0m1.188s
+real	0m2.766s
+user	0m2.547s
+sys	0m0.828s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 bvnfawcnyoeyudzrpgslimtkj
 
-real	0m1.895s
-user	0m1.547s
-sys	0m0.906s
+real	0m1.972s
+user	0m1.922s
+sys	0m0.781s
 ```
 ## Day 3
 ### Puzzle 1
 Run 1 of 1
 ```
 121259
-real	0m4.706s
-user	0m4.391s
-sys	0m0.250s
+real	0m4.773s
+user	0m4.406s
+sys	0m0.188s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 239
-real	0m0.335s
-user	0m0.234s
-sys	0m0.047s
+real	0m0.493s
+user	0m0.328s
+sys	0m0.156s
 ```
 ## Day 4
 ### Puzzle 1
@@ -245,18 +245,18 @@ Run 1 of 1
 ```
 50558
 
-real	0m0.123s
-user	0m0.016s
-sys	0m0.047s
+real	0m0.139s
+user	0m0.031s
+sys	0m0.109s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 28198
 
-real	0m0.089s
+real	0m0.130s
 user	0m0.031s
-sys	0m0.078s
+sys	0m0.109s
 ```
 ## Day 5
 ### Puzzle 1
@@ -264,18 +264,18 @@ Run 1 of 1
 ```
 11754
 
-real	0m0.890s
-user	0m0.016s
-sys	0m0.250s
+real	0m1.152s
+user	0m0.063s
+sys	0m0.438s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 4098
 
-real	0m0.565s
-user	0m0.156s
-sys	0m0.297s
+real	0m0.637s
+user	0m0.266s
+sys	0m0.281s
 ```
 ## Day 6
 ### Puzzle 1
@@ -283,18 +283,18 @@ Run 1 of 1
 ```
 3660
 
-real	0m2.705s
-user	0m0.547s
-sys	0m1.688s
+real	0m3.276s
+user	0m0.609s
+sys	0m1.734s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 35928
 
-real	0m0.855s
-user	0m0.609s
-sys	0m1.344s
+real	0m0.707s
+user	0m0.484s
+sys	0m1.250s
 ```
 ## Day 7
 ### Puzzle 1
@@ -302,18 +302,18 @@ Run 1 of 1
 ```
 BETUFNVADWGPLRJOHMXKZQCISY
 
-real	0m7.231s
-user	0m12.078s
-sys	0m2.844s
+real	0m8.192s
+user	0m11.906s
+sys	0m2.891s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 848
 
-real	0m6.944s
-user	0m11.766s
-sys	0m2.766s
+real	0m6.917s
+user	0m12.313s
+sys	0m2.391s
 ```
 ## Day 8
 ### Puzzle 1
@@ -321,18 +321,18 @@ Run 1 of 1
 ```
 40309
 
-real	0m1.877s
-user	0m0.203s
-sys	0m0.656s
+real	0m1.573s
+user	0m0.156s
+sys	0m0.453s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 28779
 
-real	0m0.473s
-user	0m0.125s
-sys	0m0.266s
+real	0m0.351s
+user	0m0.094s
+sys	0m0.172s
 ```
 ## Day 9
 ### Puzzle 1
@@ -340,18 +340,18 @@ Run 1 of 1
 ```
 367634
 
-real	0m3.780s
-user	0m0.984s
-sys	0m1.422s
+real	0m3.602s
+user	0m0.844s
+sys	0m1.641s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 3020072891
 
-real	0m4.798s
-user	0m3.719s
-sys	0m1.328s
+real	0m4.753s
+user	0m3.500s
+sys	0m1.469s
 ```
 ## Day 10
 ### Puzzle 1
@@ -368,18 +368,18 @@ Run 1 of 1
 #.......#...#...#....#..#.......#.......#...#...#.......#....#
 ######..#....#..#....#..######..######..#....#..######..#####.
 
-real	0m49.935s
-user	0m30.438s
-sys	0m18.719s
+real	0m51.639s
+user	0m32.422s
+sys	0m18.625s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 10227
 
-real	0m49.775s
-user	0m31.266s
-sys	0m18.375s
+real	0m51.594s
+user	0m32.672s
+sys	0m18.781s
 ```
 ## Day 11
 ### Puzzle 1
@@ -387,18 +387,18 @@ Run 1 of 1
 ```
 243 27
 
-real	408m40.171s
-user	19m27.109s
-sys	346m19.344s
+real	444m34.295s
+user	20m43.563s
+sys	377m28.438s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 "284,172,12"
 
-real	34m23.196s
-user	360m20.938s
-sys	1m16.297s
+real	35m22.525s
+user	361m46.250s
+sys	1m52.656s
 ```
 ## Day 12
 ### Puzzle 1
@@ -406,18 +406,18 @@ Run 1 of 1
 ```
 3890
 
-real	0m3.039s
-user	0m0.797s
-sys	0m1.344s
+real	0m3.114s
+user	0m0.469s
+sys	0m1.391s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 4800000001087
 
-real	0m2.142s
-user	0m0.828s
-sys	0m1.375s
+real	0m2.300s
+user	0m1.094s
+sys	0m1.438s
 ```
 ## Day 13
 ### Puzzle 1
@@ -425,18 +425,18 @@ Run 1 of 1
 ```
 8,9
 
-real	0m3.712s
-user	0m1.625s
-sys	0m1.188s
+real	0m4.000s
+user	0m1.438s
+sys	0m1.438s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 73,33
 
-real	0m1.866s
-user	0m0.984s
-sys	0m0.734s
+real	0m1.940s
+user	0m0.953s
+sys	0m0.859s
 ```
 ## Day 14
 ### Puzzle 1
@@ -444,18 +444,18 @@ Run 1 of 1
 ```
 2688510125
 
-real	6m40.354s
-user	6m39.969s
-sys	0m0.156s
+real	6m42.943s
+user	6m42.672s
+sys	0m0.109s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 20188250
 
-real	4m14.605s
-user	3m58.594s
-sys	0m15.672s
+real	4m11.297s
+user	3m56.031s
+sys	0m14.984s
 ```
 ## Day 15
 ### Puzzle 1
@@ -463,18 +463,18 @@ Run 1 of 1
 ```
 190012
 
-real	0m1.013s
-user	0m0.672s
-sys	0m0.094s
+real	0m1.111s
+user	0m0.688s
+sys	0m0.156s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 34364
 
-real	0m5.274s
-user	0m5.172s
-sys	0m0.063s
+real	0m5.508s
+user	0m5.344s
+sys	0m0.109s
 ```
 ## Day 16
 ### Puzzle 1
@@ -483,9 +483,9 @@ Run 1 of 1
 
 531 
 
-real	0m0.734s
-user	0m0.125s
-sys	0m0.438s
+real	0m0.810s
+user	0m0.219s
+sys	0m0.453s
 ```
 ### Puzzle 2
 Run 1 of 1
@@ -493,9 +493,9 @@ Run 1 of 1
 
 649 
 
-real	0m0.420s
-user	0m0.141s
-sys	0m0.188s
+real	0m0.439s
+user	0m0.094s
+sys	0m0.250s
 ```
 ## Day 17
 ### Puzzle 1
@@ -503,18 +503,18 @@ Run 1 of 1
 ```
 31158
 
-real	4m52.655s
-user	4m38.859s
-sys	0m33.125s
+real	5m19.025s
+user	5m4.813s
+sys	0m33.219s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 25419
 
-real	4m56.560s
-user	4m45.250s
-sys	0m31.359s
+real	5m7.337s
+user	4m57.031s
+sys	0m31.094s
 ```
 ## Day 18
 ### Puzzle 1
@@ -522,18 +522,18 @@ Run 1 of 1
 ```
 495236
 
-real	0m7.800s
-user	0m11.609s
-sys	0m3.922s
+real	0m8.341s
+user	0m12.266s
+sys	0m4.031s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 201348
 
-real	0m9.157s
-user	0m13.297s
-sys	0m4.734s
+real	0m8.980s
+user	0m12.734s
+sys	0m4.844s
 ```
 ## Day 19
 ### Puzzle 1
@@ -541,18 +541,18 @@ Run 1 of 1
 ```
 1968
 
-real	0m3.135s
-user	0m3.047s
-sys	0m0.047s
+real	0m3.461s
+user	0m3.313s
+sys	0m0.063s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 21211200
 
-real	0m0.077s
+real	0m0.081s
 user	0m0.000s
-sys	0m0.031s
+sys	0m0.047s
 ```
 ## Day 20
 ### Puzzle 1
@@ -560,18 +560,18 @@ Run 1 of 1
 ```
 4050
 
-real	0m2.652s
-user	0m1.203s
-sys	0m0.984s
+real	0m2.847s
+user	0m1.250s
+sys	0m1.266s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 8564
 
-real	0m2.604s
-user	0m1.047s
-sys	0m0.875s
+real	0m2.738s
+user	0m1.266s
+sys	0m0.984s
 ```
 ## Day 21
 ### Puzzle 1
@@ -579,31 +579,18 @@ Run 1 of 1
 ```
 3115806
 
-real	0m0.362s
-user	0m0.203s
-sys	0m0.078s
+real	0m0.365s
+user	0m0.219s
+sys	0m0.031s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
+13959373
 
-IOVM:
-	Received signal. Setting interrupt flag.
-
-  current coroutine
-  ---------
-  Coroutine callStack                  A4_Exception.io 244
-  Coroutine backTraceString            A4_Exception.io 274
-  Coroutine showStack                  System.io 62
-  System userInterruptHandler          [unlabeled] 0
-  Object tick                          program.io 104
-  CLI doFile                           Z_CLI.io 140
-  CLI run                              IoState_runCLI() 1
-
-
-real	1640m7.065s
-user	1631m53.656s
-sys	0m2.781s
+real	35m44.060s
+user	35m41.625s
+sys	0m0.094s
 ```
 ## Day 22
 ### Puzzle 1
@@ -611,24 +598,38 @@ Run 1 of 1
 ```
 10603
 
-real	0m7.151s
-user	0m2.109s
-sys	0m4.078s
+real	0m16.747s
+user	0m3.172s
+sys	0m6.875s
 ```
 ### Puzzle 2
 Run 1 of 1
 ```
 952
 
-real	0m57.780s
-user	0m52.797s
-sys	0m4.391s
+real	0m57.783s
+user	0m51.750s
+sys	0m5.109s
 ```
 ## Day 23
 ### Puzzle 1
-Puzzle not yet solved.
+Run 1 of 1
+```
+577
+
+real	0m18.944s
+user	0m6.141s
+sys	0m7.922s
+```
 ### Puzzle 2
-Puzzle not yet solved.
+Run 1 of 1
+```
+51429372
+
+real	0m16.894s
+user	0m6.031s
+sys	0m8.328s
+```
 ## Day 24
 ### Puzzle 1
 Puzzle not yet solved.
