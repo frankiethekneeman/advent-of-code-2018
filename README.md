@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 25
-Puzzles solved: 46
+Languages so far: 26
+Puzzles solved: 48
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 24       >24h   2758      0       >24h   2674      0
  23       >24h   4294      0       >24h   2472      0
  22       >24h   3873      0       >24h   2862      0
  21       >24h   3363      0       >24h   3134      0
@@ -176,12 +177,14 @@ my brain works.
 I had a pretty good time using C#, so I thought I'd give F# a try.  Functionalism in the Dotnet
 ecosystem wasn't half bad.
 
-### [Day 24](https://adventofcode.com/2018/day/24) - [TBD](days/24/puzzles/)
+### [Day 24](https://adventofcode.com/2018/day/24) - [Julia](days/24/puzzles/)
+Just looking for new languages.  This was a problem with a lot of state updates, so a language
+with mutability was key.
+
 ### [Day 25](https://adventofcode.com/2018/day/25) - [TBD](days/25/puzzles/)
 
 ## Languages that are on my list, but I haven't used yet
 - Scheme
-- Julia
 
 # Results
 ## Day 1
