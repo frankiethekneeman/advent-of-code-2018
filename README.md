@@ -35,6 +35,39 @@ Day       Time   Rank  Score       Time   Rank  Score
   1   22:27:36  24586      0   22:58:21  20019      0
 ```
 
+### Language Stats
+This isn't a great comparison, as (a) not every puzzle requires the same amount of code, and 
+(b) some languages got used for fewer puzzles, or puzzles they were less perfectly suited for, but
+it  _is_ interesting.
+```
+11.43%  C++
+8.54%   Ruby
+6.45%   Common Lisp
+6.44%   Io
+6.15%   Julia
+5.97%   C#
+5.79%   Erlang
+4.32%   Elixir
+4.06%   Kotlin
+3.94%   Go
+3.72%   PHP
+3.17%   Lua
+3.13%   C
+3.09%   Scala
+3.03%   Rust
+3.02%   Shell
+2.86%   F#
+2.55%   Crystal
+2.19%   Java
+1.89%   Scheme
+1.89%   Prolog
+1.70%   Haskell
+1.62%   Perl
+1.41%   Clojure
+1.14%   Awk
+0.32%   Python
+0.16%   JavaScript
+```
 ## My Philosophy
 
 I'm not doing this to hone my production ready skills, or to write perfect code.  I don't 
