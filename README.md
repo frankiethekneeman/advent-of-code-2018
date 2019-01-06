@@ -3,11 +3,12 @@
 I'm doing it.
 
 ```
-Languages so far: 26
-Puzzles solved: 48
+Languages so far: 27
+Puzzles solved: 50
 
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 25       >24h   3336      0       >24h   2123      0
  24       >24h   2758      0       >24h   2674      0
  23       >24h   4294      0       >24h   2472      0
  22       >24h   3873      0       >24h   2862      0
@@ -181,10 +182,9 @@ ecosystem wasn't half bad.
 Just looking for new languages.  This was a problem with a lot of state updates, so a language
 with mutability was key.
 
-### [Day 25](https://adventofcode.com/2018/day/25) - [TBD](days/25/puzzles/)
-
-## Languages that are on my list, but I haven't used yet
-- Scheme
+### [Day 25](https://adventofcode.com/2018/day/25) - [Scheme](days/25/puzzles/)
+I had a friend who used scheme in college - at the time I was very dismissive.  Oh to know then
+what I know now.  Unfortunately, the version of `scm` I was using was missing a lot of shit.
 
 # Results
 ## Day 1
