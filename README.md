@@ -1,6 +1,6 @@
 # [Advent of Code, 2018](https://adventofcode.com/2018)
 
-I'm doing it.
+I _did_ it.
 
 ```
 Languages so far: 27
@@ -219,178 +219,178 @@ with mutability was key.
 I had a friend who used scheme in college - at the time I was very dismissive.  Oh to know then
 what I know now.  Unfortunately, the version of `scm` I was using was missing a lot of shit.
 
-# Results
-## Day 1
-### Puzzle 1
+## Results
+### Day 1
+#### Puzzle 1
 Run 1 of 1
 ```
 420
 
-real	0m0.154s
-user	0m0.031s
-sys	0m0.094s
+real	0m0.163s
+user	0m0.078s
+sys	0m0.063s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 227
 
-real	0m0.678s
-user	0m0.031s
+real	0m0.505s
+user	0m0.047s
 sys	0m0.141s
 ```
-## Day 2
-### Puzzle 1
+### Day 2
+#### Puzzle 1
 Run 1 of 1
 ```
 6696
 
-real	0m2.766s
-user	0m2.547s
-sys	0m0.828s
+real	0m2.241s
+user	0m1.625s
+sys	0m0.719s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 bvnfawcnyoeyudzrpgslimtkj
 
-real	0m1.972s
-user	0m1.922s
-sys	0m0.781s
+real	0m1.584s
+user	0m1.297s
+sys	0m0.656s
 ```
-## Day 3
-### Puzzle 1
+### Day 3
+#### Puzzle 1
 Run 1 of 1
 ```
 121259
-real	0m4.773s
-user	0m4.406s
-sys	0m0.188s
+real	0m4.527s
+user	0m4.281s
+sys	0m0.109s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 239
-real	0m0.493s
-user	0m0.328s
-sys	0m0.156s
+real	0m0.376s
+user	0m0.234s
+sys	0m0.109s
 ```
-## Day 4
-### Puzzle 1
+### Day 4
+#### Puzzle 1
 Run 1 of 1
 ```
 50558
 
-real	0m0.139s
-user	0m0.031s
-sys	0m0.109s
+real	0m0.093s
+user	0m0.016s
+sys	0m0.078s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 28198
 
-real	0m0.130s
-user	0m0.031s
-sys	0m0.109s
+real	0m0.115s
+user	0m0.016s
+sys	0m0.078s
 ```
-## Day 5
-### Puzzle 1
+### Day 5
+#### Puzzle 1
 Run 1 of 1
 ```
 11754
 
-real	0m1.152s
-user	0m0.063s
-sys	0m0.438s
+real	0m0.886s
+user	0m0.078s
+sys	0m0.313s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 4098
 
-real	0m0.637s
-user	0m0.266s
-sys	0m0.281s
+real	0m0.504s
+user	0m0.188s
+sys	0m0.250s
 ```
-## Day 6
-### Puzzle 1
+### Day 6
+#### Puzzle 1
 Run 1 of 1
 ```
 3660
 
-real	0m3.276s
-user	0m0.609s
-sys	0m1.734s
+real	0m2.746s
+user	0m0.422s
+sys	0m1.609s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 35928
 
-real	0m0.707s
-user	0m0.484s
-sys	0m1.250s
+real	0m0.651s
+user	0m0.578s
+sys	0m0.875s
 ```
-## Day 7
-### Puzzle 1
+### Day 7
+#### Puzzle 1
 Run 1 of 1
 ```
 BETUFNVADWGPLRJOHMXKZQCISY
 
-real	0m8.192s
-user	0m11.906s
-sys	0m2.891s
+real	0m6.392s
+user	0m11.094s
+sys	0m2.266s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 848
 
-real	0m6.917s
-user	0m12.313s
-sys	0m2.391s
+real	0m6.711s
+user	0m12.641s
+sys	0m2.672s
 ```
-## Day 8
-### Puzzle 1
+### Day 8
+#### Puzzle 1
 Run 1 of 1
 ```
 40309
 
-real	0m1.573s
+real	0m1.604s
 user	0m0.156s
-sys	0m0.453s
+sys	0m0.422s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 28779
 
-real	0m0.351s
-user	0m0.094s
-sys	0m0.172s
+real	0m0.432s
+user	0m0.125s
+sys	0m0.234s
 ```
-## Day 9
-### Puzzle 1
+### Day 9
+#### Puzzle 1
 Run 1 of 1
 ```
 367634
 
-real	0m3.602s
-user	0m0.844s
-sys	0m1.641s
+real	0m3.329s
+user	0m0.984s
+sys	0m1.234s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 3020072891
 
-real	0m4.753s
-user	0m3.500s
-sys	0m1.469s
+real	0m4.677s
+user	0m3.234s
+sys	0m1.484s
 ```
-## Day 10
-### Puzzle 1
+### Day 10
+#### Puzzle 1
 Run 1 of 1
 ```
 ######..#....#....##....#.......#.......#....#..#.......#####.
@@ -404,275 +404,303 @@ Run 1 of 1
 #.......#...#...#....#..#.......#.......#...#...#.......#....#
 ######..#....#..#....#..######..######..#....#..######..#####.
 
-real	0m51.639s
-user	0m32.422s
-sys	0m18.625s
+real	0m51.604s
+user	0m31.969s
+sys	0m19.156s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 10227
 
-real	0m51.594s
-user	0m32.672s
-sys	0m18.781s
+real	0m50.600s
+user	0m32.875s
+sys	0m17.672s
 ```
-## Day 11
-### Puzzle 1
+### Day 11
+#### Puzzle 1
 Run 1 of 1
 ```
 243 27
 
-real	444m34.295s
-user	20m43.563s
-sys	377m28.438s
+real	260m31.895s
+user	12m38.641s
+sys	217m48.547s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 "284,172,12"
 
-real	35m22.525s
-user	361m46.250s
-sys	1m52.656s
+real	27m33.130s
+user	282m55.547s
+sys	1m27.438s
 ```
-## Day 12
-### Puzzle 1
+### Day 12
+#### Puzzle 1
 Run 1 of 1
 ```
 3890
 
-real	0m3.114s
-user	0m0.469s
-sys	0m1.391s
+real	0m2.974s
+user	0m0.500s
+sys	0m1.234s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 4800000001087
 
-real	0m2.300s
-user	0m1.094s
-sys	0m1.438s
+real	0m1.976s
+user	0m0.828s
+sys	0m1.250s
 ```
-## Day 13
-### Puzzle 1
+### Day 13
+#### Puzzle 1
 Run 1 of 1
 ```
 8,9
 
-real	0m4.000s
-user	0m1.438s
-sys	0m1.438s
+real	0m3.453s
+user	0m1.516s
+sys	0m1.016s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 73,33
 
-real	0m1.940s
-user	0m0.953s
-sys	0m0.859s
+real	0m1.725s
+user	0m0.906s
+sys	0m0.734s
 ```
-## Day 14
-### Puzzle 1
+### Day 14
+#### Puzzle 1
 Run 1 of 1
 ```
 2688510125
 
-real	6m42.943s
-user	6m42.672s
-sys	0m0.109s
+real	6m39.219s
+user	6m38.984s
+sys	0m0.141s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 20188250
 
-real	4m11.297s
-user	3m56.031s
-sys	0m14.984s
+real	4m6.358s
+user	3m50.047s
+sys	0m16.219s
 ```
-## Day 15
-### Puzzle 1
+### Day 15
+#### Puzzle 1
 Run 1 of 1
 ```
 190012
 
-real	0m1.111s
-user	0m0.688s
-sys	0m0.156s
+real	0m0.963s
+user	0m0.609s
+sys	0m0.094s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 34364
 
-real	0m5.508s
-user	0m5.344s
-sys	0m0.109s
+real	0m5.265s
+user	0m5.203s
+sys	0m0.047s
 ```
-## Day 16
-### Puzzle 1
+### Day 16
+#### Puzzle 1
 Run 1 of 1
 ```
 
 531 
 
-real	0m0.810s
-user	0m0.219s
-sys	0m0.453s
+real	0m0.758s
+user	0m0.125s
+sys	0m0.469s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 
 649 
 
-real	0m0.439s
-user	0m0.094s
-sys	0m0.250s
+real	0m0.428s
+user	0m0.047s
+sys	0m0.297s
 ```
-## Day 17
-### Puzzle 1
+### Day 17
+#### Puzzle 1
 Run 1 of 1
 ```
 31158
 
-real	5m19.025s
-user	5m4.813s
-sys	0m33.219s
+real	4m43.457s
+user	4m31.547s
+sys	0m29.766s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 25419
 
-real	5m7.337s
-user	4m57.031s
-sys	0m31.094s
+real	4m50.536s
+user	4m40.266s
+sys	0m29.844s
 ```
-## Day 18
-### Puzzle 1
+### Day 18
+#### Puzzle 1
 Run 1 of 1
 ```
 495236
 
-real	0m8.341s
-user	0m12.266s
-sys	0m4.031s
+real	0m7.065s
+user	0m10.625s
+sys	0m3.625s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 201348
 
-real	0m8.980s
-user	0m12.734s
-sys	0m4.844s
+real	0m8.710s
+user	0m12.141s
+sys	0m4.672s
 ```
-## Day 19
-### Puzzle 1
+### Day 19
+#### Puzzle 1
 Run 1 of 1
 ```
 1968
 
-real	0m3.461s
-user	0m3.313s
-sys	0m0.063s
+real	0m3.156s
+user	0m3.063s
+sys	0m0.031s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 21211200
 
-real	0m0.081s
+real	0m0.058s
 user	0m0.000s
-sys	0m0.047s
+sys	0m0.063s
 ```
-## Day 20
-### Puzzle 1
+### Day 20
+#### Puzzle 1
 Run 1 of 1
 ```
 4050
 
-real	0m2.847s
-user	0m1.250s
-sys	0m1.266s
+real	0m2.577s
+user	0m1.156s
+sys	0m0.750s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 8564
 
-real	0m2.738s
+real	0m2.615s
 user	0m1.266s
-sys	0m0.984s
+sys	0m0.906s
 ```
-## Day 21
-### Puzzle 1
+### Day 21
+#### Puzzle 1
 Run 1 of 1
 ```
 3115806
 
-real	0m0.365s
+real	0m0.311s
 user	0m0.219s
-sys	0m0.031s
+sys	0m0.016s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 13959373
 
-real	35m44.060s
-user	35m41.625s
-sys	0m0.094s
+real	36m23.739s
+user	36m23.453s
+sys	0m0.031s
 ```
-## Day 22
-### Puzzle 1
+### Day 22
+#### Puzzle 1
 Run 1 of 1
 ```
 10603
 
-real	0m16.747s
-user	0m3.172s
-sys	0m6.875s
+real	0m9.912s
+user	0m2.500s
+sys	0m4.984s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 952
 
-real	0m57.783s
-user	0m51.750s
-sys	0m5.109s
+real	0m58.068s
+user	0m52.313s
+sys	0m4.688s
 ```
-## Day 23
-### Puzzle 1
+### Day 23
+#### Puzzle 1
 Run 1 of 1
 ```
 577
 
-real	0m18.944s
-user	0m6.141s
-sys	0m7.922s
+real	0m8.456s
+user	0m2.516s
+sys	0m4.672s
 ```
-### Puzzle 2
+#### Puzzle 2
 Run 1 of 1
 ```
 51429372
 
-real	0m16.894s
-user	0m6.031s
-sys	0m8.328s
+real	0m8.220s
+user	0m2.422s
+sys	0m4.688s
 ```
-## Day 24
-### Puzzle 1
-Puzzle not yet solved.
-### Puzzle 2
-Puzzle not yet solved.
-## Day 25
-### Puzzle 1
-Puzzle not yet solved.
-### Puzzle 2
-Puzzle not yet solved.
+### Day 24
+#### Puzzle 1
+Run 1 of 1
+```
+19381
+
+real	0m1.914s
+user	0m1.234s
+sys	0m0.984s
+```
+#### Puzzle 2
+Run 1 of 1
+```
+3045
+
+real	0m2.172s
+user	0m1.750s
+sys	0m0.969s
+```
+### Day 25
+#### Puzzle 1
+Run 1 of 1
+```
+390
+
+real	0m2.719s
+user	0m2.328s
+sys	0m0.250s
+```
+#### Puzzle 2
+Run 1 of 1
+```
+Freebie
+
+real	0m0.031s
+user	0m0.000s
+sys	0m0.016s
+```

@@ -2,10 +2,10 @@
 runs=${1:-1}
 for day in {1..25}
 do
-    echo "## Day $day"
+    echo "### Day $day"
     for puzzle in 1 2 
     do
-        echo "### Puzzle $puzzle"
+        echo "#### Puzzle $puzzle"
         target="days/$day/puzzles/$puzzle/"
         if [ -f $target/getResults.sh ]
         then
