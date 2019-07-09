@@ -1,3 +1,3 @@
 #!/bin/bash
-cat input | sed 's/#/region(/' | sed 's/[@:x]/,/g' | sed 's/$/)./' > input.pl
-swipl -g "[program], [input], uncontested(R), write(R), halt."
+cat input | sed 's/#/region(/' | sed 's/[@:x]/,/g' | sed 's/$/)./' > facts.pl
+swipl -g "[facts], [rules], uncontested(ID, X, Y, Width, Height), write(ID), halt."
